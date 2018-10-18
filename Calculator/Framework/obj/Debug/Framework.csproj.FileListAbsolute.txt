@@ -1,0 +1,12 @@
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\bin\Debug\Framework.dll
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\bin\Debug\Framework.pdb
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\bin\Debug\Castle.Core.dll
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\bin\Debug\TestStack.White.dll
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\bin\Debug\Castle.Core.xml
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\bin\Debug\TestStack.White.pdb
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\bin\Debug\TestStack.White.xml
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\obj\Debug\Framework.csproj.CopyComplete
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\obj\Debug\Framework.dll
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\obj\Debug\Framework.pdb
+C:\Users\e.bondarenko\source\repos\SELF_Calculator\Calculator\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
